@@ -18,9 +18,4 @@ This Python program is a Battle Royale style application that simulates battles 
 - **Tkinter:** Python's standard GUI (Graphical User Interface) toolkit for creating the application's user interface.
 - **Random Module:** Used for generating random outcomes in battles.
 
-#### Future Improvements:
-- Implement more advanced battle strategies for fighters.
-- Add options for customization and interaction during battles.
-- Include graphical representations of battles for a more immersive experience.
-
 Feel free to explore the code and customize it further based on your requirements and preferences. If you have any feedback or suggestions for enhancements, please let me know. Enjoy the Battle Royale experience with this application!
